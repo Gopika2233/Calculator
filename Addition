@@ -3,5 +3,6 @@ Main()
 print("Addition of numbers");
 Print("Substraction of 2 numbers);
 print("Multiplication of  numbers);
-print("Divide a/b);
+print("Divide a/b)
+print("a%b ");
 }
