@@ -2,4 +2,5 @@ Main()
 {
 print("Addition of numbers");
 Print("Substraction of 2 numbers);
+print("Multiplication of  numbers);
 }
